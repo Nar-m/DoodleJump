@@ -1,0 +1,12 @@
+body{
+    background-image: url('https://img.goodfon.com/wallpaper/big/c/84/badfon-doodle-jump-dudl-dzhamp.webp');
+    width: 100%;
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+canvas{
+    background-image: url('https://img.freepik.com/premium-photo/white-paper-with-grid-line-pattern-background-close-up-image_64749-4925.jpg?w=360');
+}
